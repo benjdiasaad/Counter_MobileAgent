@@ -1,8 +1,7 @@
 Créer un compteur en utilisant les agents mobiles
 ==================
 
-Les étapes à suivre pour exécuter ce projet : 
-==========
+### <samp>Les étapes à suivre pour exécuter ce projet :   </samp>
 
   1) Choisissez la configuration d'exécution (Run Configuration)
      
@@ -14,6 +13,6 @@ Les étapes à suivre pour exécuter ce projet :
   <img src="https://www.mediafire.com/convkey/f64e/g6s1zphz5ekn7w6zg.jpg">
   
   3) Séléctionnez votre projet, et puis tapez dans le champ de Main class jade.Boot
-  4) Séléctionnez ccomme argument : -gui, Comme suit : 
-    <img src="https://www.mediafire.com/view/p6sk7rtv6fxf8ix/3.png/file"> 
+  4) Séléctionnez comme argument : -gui, Comme suit : 
+    <img src="https://www.mediafire.com/convkey/0298/e7310wuomvw5do0zg.jpg"> 
    Après cliquez sur apply, et Run "Pour lancer le projet" 
