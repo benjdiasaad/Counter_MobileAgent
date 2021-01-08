@@ -21,12 +21,17 @@ Créer un compteur en utilisant les agents mobiles
    <img src="https://www.mediafire.com/convkey/b29f/8urqqyoec0jx7vnzg.jpg">
    
    fait un clic droit sur **Main-Container**, Choisissez **start New Agent**, une fenêtre va apparaître : 
-   <img src="https://www.mediafire.com/convkey/b29f/8urqqyoec0jx7vnzg.jpg">
+   <img src="https://www.mediafire.com/convkey/2522/j416sbprn9b4glwzg.jpg">
    
    Choisissez un nom pour l'agent, après séléctionnez la class **MobileAgent**, puis cliquer sur OK
    
    finalement voilà la sortie de notre projet :
+   
    <img src="https://www.mediafire.com/convkey/a70e/oup5xebqjdxddbfzg.jpg">
+   
+   
+   
+   
    
    
    
