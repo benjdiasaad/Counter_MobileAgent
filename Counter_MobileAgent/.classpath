@@ -6,5 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/jade/jade.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pc/Documents/commons-codec-20041127.091804.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
